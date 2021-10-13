@@ -308,7 +308,7 @@ footer{
         content:'';
         width: 100px;
         height: 40px;
-        background-color: aquamarine;
+        background-color: #FFAD3D;
         transition: all 0.2s linear;
     }
 
@@ -319,7 +319,7 @@ footer{
     .navitems{
         display: inline-block;
         font-size: 22px;
-        color: #FFAD3D;
+        color: #004A43;
         font-family: 'Raleway', sans-serif;
         font-weight: 700;
         text-align: center;
