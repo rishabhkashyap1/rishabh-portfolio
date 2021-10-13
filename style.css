@@ -261,7 +261,7 @@ footer{
 
 @media(min-width: 768px) {
 
-    #Rishabh-logo{
+    #RishabhLogo{
         margin-top: 16px;
         margin-left: 20px;
         display: inline-block;
@@ -270,7 +270,7 @@ footer{
         transition: all 0.2s linear;
     }
 
-    #Rishabh-logo:hover{
+    #RishabhLogo:hover{
         margin-top: 26px;
         transition: all 0.2s linear;
     }
@@ -345,7 +345,7 @@ footer{
 
 @media (max-width: 768px) {
 
-    #Rishabh-logo{
+    #RishabhLogo{
         display: none;
     }
 
