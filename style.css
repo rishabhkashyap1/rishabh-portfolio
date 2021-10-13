@@ -760,7 +760,7 @@ button{
         width: 272px;
         height: 272px;
         margin-top: 177px;
-        box-shadow: 0px 32px 50px 0 rgba(0, 71, 208, 0.15);
+        box-shadow: 0px 32px 50px rgba(0, 74, 67, 0.15);
         display: inline-block;
         float: right;
     }
