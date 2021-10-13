@@ -469,7 +469,7 @@ footer{
 .button-ghost{
     height: 52px;
     background-color: white;
-    color:  #0047D0;
+    color:  #004A43;
     font-family: 'Manrope', sans-serif;
     font-weight: 800;
     text-align: center;
@@ -488,7 +488,7 @@ footer{
     background: #FFAD3D;
     border-style: solid;
     border-width: 2px;
-    border-color: #004A43;
+    border-color: #FFAD3D;
     transition: all 0.2s linear;
 
 }
@@ -497,7 +497,7 @@ footer{
 .button-ghost:active{
     transform: scale(.94);
     transition: all 0.1s linear;
-    background-color: #E7EEFF;
+    background-color: #F1F6F6;
 }
 
 .button-social{
