@@ -763,6 +763,7 @@ button{
         box-shadow: 0px 32px 50px rgba(0, 74, 67, 0.15);
         display: inline-block;
         float: right;
+        border-radius: 24px;
     }
 }
 
@@ -774,6 +775,7 @@ button{
         box-shadow: 0px 32px 50px rgba(0, 74, 67, 0.15);
         display: block;
         float: left;
+        border-radius: 24px;
     }
 }
 
