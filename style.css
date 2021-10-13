@@ -732,9 +732,9 @@ button{
 @media (min-width: 960px) {
     #Rishabh_name{
         padding-top: 300px;
-        font-size: 84px;
+        font-size: 64px;
         margin: 0;
-        margin-bottom: -15px;
+        margin-bottom: 0px;
     }
 }
 
