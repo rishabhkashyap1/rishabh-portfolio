@@ -261,7 +261,7 @@ footer{
 
 @media(min-width: 768px) {
 
-    #RKlogo{
+    #Rishabh-logo{
         margin-top: 16px;
         margin-left: 20px;
         display: inline-block;
@@ -270,7 +270,7 @@ footer{
         transition: all 0.2s linear;
     }
 
-    #RKlogo:hover{
+    #Rishabh-logo:hover{
         margin-top: 26px;
         transition: all 0.2s linear;
     }
@@ -345,7 +345,7 @@ footer{
 
 @media (max-width: 768px) {
 
-    #RKlogo{
+    #Rishabh-logo{
         display: none;
     }
 
@@ -771,7 +771,7 @@ button{
         width: 200px;
         height: 200px;
         margin-top: 0px;
-        box-shadow: 0px 32px 50px 0 rgba(0, 71, 208, 0.15);
+        box-shadow: 0px 32px 50px rgba(0, 74, 67, 0.15);
         display: block;
         float: left;
     }
