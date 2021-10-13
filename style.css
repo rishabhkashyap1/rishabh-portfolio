@@ -409,9 +409,9 @@ footer{
 
 .button-primary{
     max-width: 150px;
-    background-color: #FFAD3D;
+    background-color: #58D1BD;
     color: #004A43;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Manrope', sans-serif;
     font-weight: 800;
     font-size: 14px;
     text-align: center;
@@ -425,9 +425,9 @@ footer{
 
 .button-primary:hover{
     width: 170px;
-    background-color:#58D1BD;
-    color:  white;
-    font-family: 'Raleway', sans-serif;
+    background-color:#FFAD3D;
+    color:  #004A43;
+    font-family: 'Manrope', sans-serif;
     font-weight: 800;
     text-align: center;
     border-radius: 0px;
