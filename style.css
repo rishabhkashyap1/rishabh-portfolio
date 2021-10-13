@@ -723,16 +723,16 @@ button{
 }
 
 @media (max-width: 960px) {
-    #RobertKoh_name{
+    #Rishabh_name{
         padding-top: 30px;
         font-size: 60px;
     }
   }
 
 @media (min-width: 960px) {
-    #RobertKoh_name{
+    #Rishabh_name{
         padding-top: 282px;
-        font-size: 101px;
+        font-size: 84px;
         margin: 0;
         margin-bottom: -15px;
     }
